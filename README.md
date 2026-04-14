@@ -27,14 +27,14 @@ Busco constantemente por experiências que me tirem da zona de conforto, me cone
 <div align="start">
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=dierlisson&rank_icon=github&show_icons=true&theme=tokyonight&hide=contribs,prs"
+    srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=dierlisson&rank_icon=github&show_icons=true&theme=tokyonight&hide=contribs,prs"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=dierlisson&rank_icon=github&show_icons=true&hide=contribs,prs"
+    srcset="https://github-readme-stats.vercel.app/api?username=dierlisson&show_icons=true&hide=contribs,prs"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=dierlisson&rank_icon=github&show_icons=true&hide=contribs,prs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
 </picture>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dierlisson&layout=compact&langs_count=10&theme=tokyonight" alt="Github top linguagens"/>
  
