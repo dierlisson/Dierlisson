@@ -5,7 +5,7 @@
 Eu sou o **Dierlisson**, 👨‍💻 Entusiasta em tecnologia, apaixonado por transformar ideias em soluções reais através do código. 
 
 Graduando em Tecnologia em Sistemas para Internet pelo IFES, estou focado em me especializar como desenvolvedor mobile. 
-Atualmente mergulho no desenvolvimento Android nativo, utilizando Kotlin ![icon kotlin-16](https://github.com/user-attachments/assets/226fe0fa-f397-4c6a-bdc3-9a2c9131d26b), Jetpack Compose, MVVM, Retrofit, Room Database, Consumo de APIs, entre outros. 
+Atualmente mergulho no desenvolvimento Android nativo, utilizando Kotlin, Jetpack Compose, MVVM, Retrofit, Room Database, Consumo de APIs, entre outros. 
 
 Acredito que a tecnologia tem o poder de melhorar vidas e é isso que me move: evoluir continuamente, colaborar e criar soluções que impactem positivamente a experiência das pessoas.
 
