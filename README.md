@@ -2,7 +2,7 @@
 
 ### Desenvolvedor Android | Kotlin | Jetpack Compose | XML | MVVM | REST APIs
 
-📍 São Mateus, Espírito Santo, Brasil
+📍 Espírito Santo, Brasil
 🌎 Disponível para oportunidades remotas no Brasil
 🎯 Em busca de uma oportunidade como Desenvolvedor Android Júnior
 
