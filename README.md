@@ -39,7 +39,7 @@ Aplicativo para descoberta e gerenciamento de eventos de tecnologia, desenvolvid
 
 ---
 
-### 🔴 [Pokédex App](https://github.com/dierlisson/pokedexApp)
+### 🔴 [Pokédex App](https://github.com/dierlisson/PokedexApp)
 
 Pokédex Android com interface em Jetpack Compose, consumo da PokéAPI e suporte offline.
 
